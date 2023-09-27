@@ -1,6 +1,9 @@
 {
   "proxies": [
     {
+      "name": "mocktest"
+    },
+    {
       "name": "test1"
     }
   ],
